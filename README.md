@@ -1,5 +1,7 @@
 # 2024 Airline Performance Analysis Report
 
+![GIF](https://github.com/user-attachments/assets/ad6ac12d-2dcc-404d-9210-a2337fda6456)
+
 ## 1. Project Overview  
 This report provides a **data-driven analysis of airline performance** based on **Power BI dashboards and SQL queries**.  
 The primary goal is to assess flight performance by evaluating **total flights, delays, and cancellations** across different airlines.  
