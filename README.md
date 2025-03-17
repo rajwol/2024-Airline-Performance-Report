@@ -1,10 +1,10 @@
 # 2024 Airline Performance Analysis Report
 
 ## Project Overview  
-This report provides a data-driven analysis of airline performance, leveraging Power BI dashboards and SQL queries to evaluate key flight metrics such as on-time performance, delays, and cancellations. The dataset, provided for this analysis, contains detailed flight records from multiple airlines. Stakeholders from the FAA requested this assessment to identify patterns in flight disruptions, determine the primary causes of cancellations and delays, and offer data-backed recommendations for improving airline efficiency.
+This report provides a **data-driven analysis of airline performance**, leveraging a **Power BI dashboard** and **SQL queries** to evaluate key flight metrics such as **on-time performance**, **delays**, **and cancellations**. The dataset, provided for this analysis, contains detailed flight records from multiple airlines. **Stakeholders from the FAA** requested this assessment to identify **patterns in flight disruptions**, determine the **primary causes of cancellations and delays**, and offer **data-driven recommendations** for improving airline efficiency.
 
-By integrating SQL for data extraction and Power BI for visualization, this analysis highlights airline punctuality trends, major delay contributors, and leading cancellation reasons. The findings will help stakeholders make strategic operational improvements, enhance scheduling practices, and implement better risk management strategies to minimize disruptions in the aviation industry.
-
+By integrating **SQL for data extraction and Power BI for visualization**, this analysis highlights **airline punctuality trends**, **major delay contributors**, **and leading cancellation reasons**. The findings will help stakeholders make **strategic operational improvements**, enhance scheduling practices, and implement **better risk management strategies** to minimize disruptions in the aviation industry.
+**
 ### **Key Goals of the Analysis**
 - Identify **which airlines experience the most delays and cancellations**.
 - Determine the **leading causes of flight cancellations**.
